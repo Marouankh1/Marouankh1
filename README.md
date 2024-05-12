@@ -1,5 +1,7 @@
+![mk_cover](https://github.com/Marouankh1/Marouankh1/assets/112667642/908e464a-ad40-40f0-bdf1-614c0fad8f2d)
 <h1 align="center">Hi 👋, I'm Marouan Khabali</h1>
 <h3 align="center">Full Stack Web Developer, based in Tangier, Morocco, I'm passionate about web development and programming and I'm not afraid to push my limits...</h3>
+<img align="right" alt="MK" width="400" src="https://github.com/Marouankh1/Marouankh1/assets/112667642/c51cbc00-0b20-44bb-9474-e40254f9b584" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marouankh1&label=Profile%20views&color=0e75b6&style=flat" alt="marouankh1" /> </p>
 
