@@ -1,6 +1,5 @@
 <div align="center">  
-  <img width="1280" height="925" alt="Image" src="https://github.com/user-attachments/assets/8219f84d-d2cf-41df-b30c-bfa0d5931e11" width="80" />
-  <img src="https://img.shields.io/badge/MK-101010?style=for-the-badge&logo=target&logoColor=c8f560" width="80" />
+  <img width="80" alt="Image" src="https://github.com/user-attachments/assets/8219f84d-d2cf-41df-b30c-bfa0d5931e11" />
   
   <h1 align="center">Hi there, I'm Marouan Khabali! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
