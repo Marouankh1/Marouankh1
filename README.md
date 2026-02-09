@@ -67,8 +67,9 @@ I am a **Software Developer** with over **3 years of experience** building high-
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marouankh1&show_icons=true&hide_border=true&bg_color=101010&title_color=c8f560&icon_color=7862f8&text_color=a5a5a5" alt="Marouan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouankh1&layout=compact&hide_border=true&bg_color=101010&title_color=c8f560&text_color=a5a5a5" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=marouankh1&show_icons=true&hide_border=true&bg_color=101010&title_color=c8f560&icon_color=7862f8&text_color=a5a5a5" />
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marouankh1&layout=compact&hide_border=true&bg_color=101010&title_color=c8f560&text_color=a5a5a5" />
 </div>
 
 <div align="center">
