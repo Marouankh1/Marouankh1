@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Professional Profile
 
-I am a **Software Developer** with over **3 years of experience** building high-performance web applications and automation tools. Currently, I am a **Mid-Level Software Developer** at **PI Marketing**, where I architect large-scale data-tracking platforms and email-sending automation. Simultaneously, I am pursuing my **Engineering Degree** at **ENSI**, specializing in **Big Data and AI**.
+I am a **Software Developer** with over **3 years of experience** building high-performance web applications and automation tools. Currently, I am a **Mid-Level Software Developer** at **PI Marketing**, where I architect large-scale data-tracking platforms and email-sending automation. Simultaneously, I am pursuing my **Engineering Degree** at **ENSI**.
 
 - 🔭 **Current Focus:** Cloud-Native Infrastructure, DevOps methodologies ...
 - 🌱 **Learning:** Machine Learning ...
