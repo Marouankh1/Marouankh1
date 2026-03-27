@@ -3,7 +3,7 @@
   
   <h1 align="center">Hi there, I'm Marouan Khabali! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
-  <h3 align="center">Mid-Level Software Developer | DevOps Enthusiast | Big Data & AI Student</h3>
+  <h3 align="center">Mid-Level Software Developer | DevOps Enthusiast | Engineering Student</h3>
   
   <p align="center">
     Based in <b>Tangier, Morocco 🇲🇦</b>
@@ -28,7 +28,7 @@ I am a **Software Developer** with over **3 years of experience** building high-
 - 🔭 **Current Focus:** Cloud-Native Infrastructure, DevOps methodologies ...
 - 🌱 **Learning:** Machine Learning ...
 - 🚀 **Specialty:** Developing Full-Stack applications with a strong focus on modern UI/UX design and building professional CI/CD pipelines.
-- 🎓 **Education:** Engineering Degree (Cycle d’Ingénieur) in Computer Science - Big Data & AI at ENSI.
+- 🎓 **Education:** Engineering Degree (Cycle d’Ingénieur) in Computer Science at ENSI.
 
 <br />
 
